@@ -1,0 +1,28 @@
+#Author: Rachael Kretsch
+#Date: 14 August 2017
+#Project: BWC
+#File: Data/How_to_compile.txt
+
+Data (from offficial documents)
+-Conference
+-Date
+-Submitted by
+-Title
+-Document code
+-text
+-key words
+
+To do
+-convert pdf to txt
+-txt to key words (excluding the repetative title)
+
+Issues
+-some documents are informally translated in same document
+-some documents are untranslatted (google api?https://cloud.google.com/translate/docs/)
+
+Later work
+-could investigate final documents, what got included?
+
+Language
+-to compile python
+-analysis in R (good network?)
