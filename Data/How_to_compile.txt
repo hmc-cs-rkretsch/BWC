@@ -22,6 +22,7 @@ Issues
 
 Later work
 -could investigate final documents, what got included?
+-correlation with who submitted voluntary CBM or where ISU attended conferences.
 
 Language
 -to compile python
